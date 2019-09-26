@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sqlite-persistence": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Repos\\aspnetcore\\anca\\sqlite-persistence"
+    }
+  }
+}
